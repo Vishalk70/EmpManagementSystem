@@ -1,3 +1,10 @@
+# Employee Management System
+I have created an employee management system using fontend framework React and tailwind css.
+It is a project all about to manage employees with their assigned tasks.
+we've fetch data which are store in local storage.
+
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
