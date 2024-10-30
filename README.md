@@ -1,8 +1,7 @@
 # Employee Management System
 I have created an employee management system using fontend framework React and tailwind css.
 It is a project all about to manage employees with their assigned tasks.
-we've fetch data which are store in local storage.
-
+This project was made strictly using React , tailwind CSS  and doesnot employ postgres connectivity.
 
 
 # React + Vite
